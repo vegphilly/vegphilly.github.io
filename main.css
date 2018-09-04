@@ -1,0 +1,27 @@
+.hero-unit {
+    height: 400px;
+    background: url(hero_unit.jpg);
+    padding: 60px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color: #eeeeee;
+    border-radius: 6px;
+}
+
+.hero-unit h1 {
+    font-size: 55px;
+    font-family: 'Sanchez', serif;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: -1px;
+    color: #444444;
+    padding-bottom: 40px;
+}
+
+.hero-unit p {
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    color: #444444;
+    font-family: 'Source Sans Pro', sans-serif;
+}
